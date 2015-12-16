@@ -1,0 +1,27 @@
+{
+  "name": "mocha-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oztune/mocha-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oztune/mocha-config/issues"
+  },
+  "homepage": "https://github.com/oztune/mocha-config#readme",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
+  },
+  "peerDependencies": {
+    "babel-register": "^6.3.13"
+  }
+}
