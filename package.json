@@ -18,10 +18,11 @@
   "homepage": "https://github.com/oztune/mocha-config#readme",
   "dependencies": {
     "chai": "^3.4.1",
+    "chai-as-promised": "^5.2.0",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.8.0"
   },
   "peerDependencies": {
-    "babel-register": "^6.3.13"
+    "browserstack-webdriver": "^2.41.1"
   }
 }
